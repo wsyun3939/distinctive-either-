@@ -1,0 +1,47 @@
+[
+{
+  "directory": "C:/Users/wsyun/Desktop/Thesis/distinctive-either-/build",
+  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe   -g   -o CMakeFiles\\distinctive-either-.dir\\main.c.obj   -c C:\\Users\\wsyun\\Desktop\\Thesis\\distinctive-either-\\main.c",
+  "file": "C:/Users/wsyun/Desktop/Thesis/distinctive-either-/main.c"
+},
+{
+  "directory": "C:/Users/wsyun/Desktop/Thesis/distinctive-either-/build",
+  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe   -g   -o CMakeFiles\\distinctive-either-.dir\\heuristics.c.obj   -c C:\\Users\\wsyun\\Desktop\\Thesis\\distinctive-either-\\heuristics.c",
+  "file": "C:/Users/wsyun/Desktop/Thesis/distinctive-either-/heuristics.c"
+},
+{
+  "directory": "C:/Users/wsyun/Desktop/Thesis/distinctive-either-/build",
+  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe   -g   -o CMakeFiles\\distinctive-either-.dir\\lower_bound.c.obj   -c C:\\Users\\wsyun\\Desktop\\Thesis\\distinctive-either-\\lower_bound.c",
+  "file": "C:/Users/wsyun/Desktop/Thesis/distinctive-either-/lower_bound.c"
+},
+{
+  "directory": "C:/Users/wsyun/Desktop/Thesis/distinctive-either-/build",
+  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe   -g   -o CMakeFiles\\distinctive-either-.dir\\node_pool.c.obj   -c C:\\Users\\wsyun\\Desktop\\Thesis\\distinctive-either-\\node_pool.c",
+  "file": "C:/Users/wsyun/Desktop/Thesis/distinctive-either-/node_pool.c"
+},
+{
+  "directory": "C:/Users/wsyun/Desktop/Thesis/distinctive-either-/build",
+  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe   -g   -o CMakeFiles\\distinctive-either-.dir\\print.c.obj   -c C:\\Users\\wsyun\\Desktop\\Thesis\\distinctive-either-\\print.c",
+  "file": "C:/Users/wsyun/Desktop/Thesis/distinctive-either-/print.c"
+},
+{
+  "directory": "C:/Users/wsyun/Desktop/Thesis/distinctive-either-/build",
+  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe   -g   -o CMakeFiles\\distinctive-either-.dir\\problem.c.obj   -c C:\\Users\\wsyun\\Desktop\\Thesis\\distinctive-either-\\problem.c",
+  "file": "C:/Users/wsyun/Desktop/Thesis/distinctive-either-/problem.c"
+},
+{
+  "directory": "C:/Users/wsyun/Desktop/Thesis/distinctive-either-/build",
+  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe   -g   -o CMakeFiles\\distinctive-either-.dir\\solution.c.obj   -c C:\\Users\\wsyun\\Desktop\\Thesis\\distinctive-either-\\solution.c",
+  "file": "C:/Users/wsyun/Desktop/Thesis/distinctive-either-/solution.c"
+},
+{
+  "directory": "C:/Users/wsyun/Desktop/Thesis/distinctive-either-/build",
+  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe   -g   -o CMakeFiles\\distinctive-either-.dir\\solve.c.obj   -c C:\\Users\\wsyun\\Desktop\\Thesis\\distinctive-either-\\solve.c",
+  "file": "C:/Users/wsyun/Desktop/Thesis/distinctive-either-/solve.c"
+},
+{
+  "directory": "C:/Users/wsyun/Desktop/Thesis/distinctive-either-/build",
+  "command": "C:\\MinGW\\bin\\mingw32-gcc.exe   -g   -o CMakeFiles\\distinctive-either-.dir\\timer.c.obj   -c C:\\Users\\wsyun\\Desktop\\Thesis\\distinctive-either-\\timer.c",
+  "file": "C:/Users/wsyun/Desktop/Thesis/distinctive-either-/timer.c"
+}
+]
